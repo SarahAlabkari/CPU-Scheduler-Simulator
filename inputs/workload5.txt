@@ -1,0 +1,6 @@
+# Sample workload format
+# PID arrival_time burst_time priority
+P1 0 4 1
+P2 2 2 3
+P3 4 1 2
+P4 6 3 4
