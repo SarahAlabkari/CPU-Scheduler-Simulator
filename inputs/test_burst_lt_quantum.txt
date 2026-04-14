@@ -1,0 +1,4 @@
+# RR test: P1 burst(1) < quantum(2); P2 burst(3)
+# PID arrival burst priority
+P1 0 1 1
+P2 0 3 2

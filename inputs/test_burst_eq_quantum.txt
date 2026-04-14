@@ -1,0 +1,5 @@
+# RR test: every burst == quantum(2); no process ever goes back to queue
+# PID arrival burst priority
+P1 0 2 1
+P2 0 2 2
+P3 0 2 3
