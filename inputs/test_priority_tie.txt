@@ -1,0 +1,6 @@
+# Priority tie: P2 and P3 both have priority 2, arrived in order P2 then P3
+# Expected: P1 runs first (lowest pid, first in queue), then P2 before P3
+# PID arrival burst priority
+P1 0 3 1
+P2 1 4 2
+P3 2 2 2

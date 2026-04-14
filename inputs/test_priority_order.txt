@@ -1,0 +1,7 @@
+# Priority test: lower number = higher priority
+# P1 has priority 3 (low), P2 priority 1 (highest), P3 priority 2
+# P1 arrives alone at 0 and runs; then P2 beats P3 at the next decision
+# PID arrival burst priority
+P1 0 4 3
+P2 2 3 1
+P3 2 2 2

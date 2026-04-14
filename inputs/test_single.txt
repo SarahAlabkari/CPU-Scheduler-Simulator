@@ -1,0 +1,3 @@
+# Single-process: no queuing, no waiting
+# PID arrival burst priority
+P1 0 5 1
