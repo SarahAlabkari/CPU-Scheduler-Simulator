@@ -6,7 +6,7 @@
 
 /*
  * print_gantt_chart
- *   Prints the Gantt chart (one time slot per line) for a completed simulation.
+ *   Prints the Gantt chart for a completed simulation.
  */
 void print_gantt_chart(const SimulationResult *result);
 
